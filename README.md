@@ -5,3 +5,5 @@ Cadastro de clientes feito com Python, SQL Lite como banco de dados, e a Lib Tki
 Projeto feito a titulo de aprendizagem na linguagem Python.
 
 Cadastro de clientes feito no banco de dados, podendo tambem ser exportado para uma planilha xls atraves do clique de um botão.
+
+![alt text](https://github.com/FigueredoDev/Cadastro_Clientes/blob/main/Menu.png?raw=true)
